@@ -1,0 +1,19 @@
+{
+  "pages": [
+ 
+
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/shopMap/shopMap",
+    "pages/test/test"
+ 
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffd705",
+    "navigationBarTitleText": "物流配送",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
